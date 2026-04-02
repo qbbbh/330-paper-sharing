@@ -1,0 +1,1 @@
+#论文名称：基于车辆通信中图神经网络的资源分配Resource_Allocation_based_on_Graph_Neural_Networks_in_Vehicular_Communications
